@@ -1,6 +1,6 @@
 #oikeat käyttäjä ja salasanan vastaukset
 KÄYTTIS ="python"
-SALASANA= "rules"
+SALASANA = "rules"
 # määritää kuinkamonta yritystä on tehty
 yritys =0
 while yritys!=5:
@@ -16,4 +16,5 @@ while yritys!=5:
     yritys=yritys+1
 
 else:
+
         print("pääsy evätty")
